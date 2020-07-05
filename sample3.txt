@@ -1,1 +1,2 @@
 Branching is fun.
+First branch successfully created and merged.
